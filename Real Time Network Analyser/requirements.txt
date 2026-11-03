@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+psutil
+pandas
+plotly
+scapy
